@@ -3,7 +3,7 @@
 <channel id="AfricanewsEnglish.fr"><display-name>Africanews English</display-name><url>https://vidio.com</url></channel>
 <channel id="AjwaTV.id"><display-name>Ajwa TV</display-name><url>https://vidio.com</url></channel>
 <channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</display-name><url>https://vidio.com</url></channel>
-<channel id="ANTV.id"><display-na me>ANTV</display-name><url>https://vidio.com</url></channel>
+<channel id="ANTV.id"><display-name>ANTV</display-name><url>https://vidio.com</url></channel>
 <channel id="ArirangWorld.kr"><display-name>Arirang World</display-name><url>https://vidio.com</url></channel>
 <channel id="beINSports1.id"><display-name>beIN Sports 1</display-name><url>https://vidio.com</url></channel>
 <channel id="beINSports3.id"><display-name>beIN Sports 3</display-name><url>https://vidio.com</url></channel>
@@ -738,13 +738,12 @@
 <programme start="20241130091000 +0000" stop="20241130101000 +0000" channel="beINSports1.id"><title lang="id">Dubai : SailGP Highlights</title></programme>
 <programme start="20241130101000 +0000" stop="20241130111000 +0000" channel="beINSports1.id"><title lang="id">UEFA Europa League &amp; UEFA Conference League</title></programme>
 <programme start="20241130111000 +0000" stop="20241130114000 +0000" channel="beINSports1.id"><title lang="id">Fast Zone</title></programme>
-<programme start="20241130114000 +0000" stop="20241130121300 +0000" channel="beINSports1.id"><title lang="id">UEFA CHAMPIONS LEAGUE MAGAZINE</title></programme>
-<programme start="20241130121300 +0000" stop="20241130125000 +0000" channel="beINSports1.id"><title lang="id">Qatar: Qualifying : F1 Academy</title></programme>
-<programme start="20241130125000 +0000" stop="20241130130000 +0000" channel="beINSports1.id"><title lang="id">2018/19: Barcelona v Real Madrid : LaLiga Classics</title></programme>
+<programme start="20241130114000 +0000" stop="20241130121700 +0000" channel="beINSports1.id"><title lang="id">UEFA CHAMPIONS LEAGUE MAGAZINE</title></programme>
+<programme start="20241130121700 +0000" stop="20241130130000 +0000" channel="beINSports1.id"><title lang="id">Qatar: Qualifying : F1 Academy</title></programme>
 <programme start="20241130130000 +0000" stop="20241130135600 +0000" channel="beINSports1.id"><title lang="id">Qatar Sprint Race : Formula 1 Pre Qualifying</title></programme>
-<programme start="20241130135600 +0000" stop="20241130143000 +0000" channel="beINSports1.id"><title lang="id">Qatar Grand Prix, Sprint Qualifying : Formula 1 Racing</title></programme>
-<programme start="20241130143000 +0000" stop="20241130153000 +0000" channel="beINSports1.id"><title lang="id">Qatar Sprint Race : Formula 1 Post Show</title></programme>
-<programme start="20241130153000 +0000" stop="20241130160000 +0000" channel="beINSports1.id"><title lang="id">Qatar Grand Prix : Ted&apos;s Notebook</title></programme>
+<programme start="20241130135600 +0000" stop="20241130144500 +0000" channel="beINSports1.id"><title lang="id">Qatar Grand Prix, Sprint Qualifying : Formula 1 Racing</title></programme>
+<programme start="20241130144500 +0000" stop="20241130152700 +0000" channel="beINSports1.id"><title lang="id">Qatar Sprint Race : Formula 1 Post Show</title></programme>
+<programme start="20241130152700 +0000" stop="20241130160000 +0000" channel="beINSports1.id"><title lang="id">Qatar Grand Prix : Ted&apos;s Notebook</title></programme>
 <programme start="20241130160000 +0000" stop="20241130161500 +0000" channel="beINSports1.id"><title lang="id">Villarreal v Atletico Madrid : LaLiga Highlights</title></programme>
 <programme start="20241130161500 +0000" stop="20241130171500 +0000" channel="beINSports1.id"><title lang="id">Qatar, Sprint : FIA Formula 2 Championship</title></programme>
 <programme start="20241130171500 +0000" stop="20241130175500 +0000" channel="beINSports1.id"><title lang="id">Qatar Grand Prix : Formula 1 Racing</title></programme>
@@ -887,7 +886,8 @@
 <programme start="20241130060000 +0000" stop="20241130080000 +0000" channel="ChampionsTV1.id"><title lang="id">Sheffield United vs. Sunderland : English Championship Soccer</title></programme>
 <programme start="20241130080000 +0000" stop="20241130095100 +0000" channel="ChampionsTV1.id"><title lang="id">Venezia FC vs. Lecce : Italian Serie A Soccer</title></programme>
 <programme start="20241130095100 +0000" stop="20241130100000 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
-<programme start="20241130100000 +0000" stop="20241130120000 +0000" channel="ChampionsTV1.id"><title lang="id">Cagliari vs. Hellas Verona : Italian Serie A Soccer</title></programme>
+<programme start="20241130100000 +0000" stop="20241130115500 +0000" channel="ChampionsTV1.id"><title lang="id">Cagliari vs. Hellas Verona : Italian Serie A Soccer</title></programme>
+<programme start="20241130115500 +0000" stop="20241130120000 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
 <programme start="20241130120000 +0000" stop="20241130123000 +0000" channel="ChampionsTV1.id"><title lang="id">Serie A Magazine</title></programme>
 <programme start="20241130123000 +0000" stop="20241130130000 +0000" channel="ChampionsTV1.id"><title lang="id">Darts</title></programme>
 <programme start="20241130130000 +0000" stop="20241130133000 +0000" channel="ChampionsTV1.id"><title lang="id">Serie A Highlight Show</title></programme>
@@ -930,8 +930,8 @@
 <programme start="20241130080000 +0000" stop="20241130100000 +0000" channel="ChampionsTV2.id"><title lang="id">Benfica vs. FC Porto : Primeira Liga Soccer</title></programme>
 <programme start="20241130100000 +0000" stop="20241130120000 +0000" channel="ChampionsTV2.id"><title lang="id">Sheffield United vs. Sunderland : English Championship Soccer</title></programme>
 <programme start="20241130120000 +0000" stop="20241130122500 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
-<programme start="20241130122500 +0000" stop="20241130144000 +0000" channel="ChampionsTV2.id"><title lang="id">Watford vs QPR - EFL Championship</title></programme>
-<programme start="20241130144000 +0000" stop="20241130145500 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
+<programme start="20241130122500 +0000" stop="20241130142800 +0000" channel="ChampionsTV2.id"><title lang="id">Watford vs QPR - EFL Championship</title></programme>
+<programme start="20241130142800 +0000" stop="20241130145500 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
 <programme start="20241130145500 +0000" stop="20241130172000 +0000" channel="ChampionsTV2.id"><title lang="id">Norwich City vs Luton Town - EFL Championship</title></programme>
 <programme start="20241130172000 +0000" stop="20241130173000 +0000" channel="ChampionsTV2.id"><title lang="id">Darts</title></programme>
 <programme start="20241130173000 +0000" stop="20241130183000 +0000" channel="ChampionsTV2.id"><title lang="id">Darts</title></programme>
@@ -1030,8 +1030,8 @@
 <programme start="20241130093000 +0000" stop="20241130100000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League: The Big Interview</title></programme>
 <programme start="20241130100000 +0000" stop="20241130120000 +0000" channel="ChampionsTV6.id"><title lang="id">Everton vs. Brentford : Premier League Soccer</title></programme>
 <programme start="20241130120000 +0000" stop="20241130140000 +0000" channel="ChampionsTV6.id"><title lang="id">Brighton &amp; Hove Albion vs. Southampton : Premier League Soccer</title></programme>
-<programme start="20241130140000 +0000" stop="20241130150000 +0000" channel="ChampionsTV6.id"><title lang="id">PL Preview</title></programme>
-<programme start="20241130150000 +0000" stop="20241130180000 +0000" channel="ChampionsTV6.id"><title lang="id">Nottingham Forest vs Ipswich - Premier League</title></programme>
+<programme start="20241130140000 +0000" stop="20241130143000 +0000" channel="ChampionsTV6.id"><title lang="id">PL Preview</title></programme>
+<programme start="20241130143000 +0000" stop="20241130180000 +0000" channel="ChampionsTV6.id"><title lang="id">Nottingham Forest vs Ipswich - Premier League</title></programme>
 <programme start="20241130180000 +0000" stop="20241130190000 +0000" channel="ChampionsTV6.id"><title lang="id">Fulham vs. Wolverhampton Wanderers : Premier League Soccer</title></programme>
 <programme start="20241130190000 +0000" stop="20241130193000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League Stories</title></programme>
 <programme start="20241130193000 +0000" stop="20241130200000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League Netbusters</title></programme>
@@ -1934,8 +1934,8 @@
 <programme start="20241130063000 +0000" stop="20241130083000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial: Siapa Orang yang Menghantui Kebahagiaan Pernikahanku</title></programme>
 <programme start="20241130083000 +0000" stop="20241130103000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Sore Spesial: Ruangan Rahasia Di Rumah Suamiku</title></programme>
 <programme start="20241130103000 +0000" stop="20241130123000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 Season 3</title></programme>
-<programme start="20241130123000 +0000" stop="20241130160000 +0000" channel="Indosiar.id"><title lang="id">29th Asian Television Awards</title></programme>
-<programme start="20241130160000 +0000" stop="20241130183000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia: Jackie Chan&apos;s First Strike</title></programme>
+<programme start="20241130123000 +0000" stop="20241130163000 +0000" channel="Indosiar.id"><title lang="id">29th Asian Television Awards</title></programme>
+<programme start="20241130163000 +0000" stop="20241130183000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia: Jackie Chan&apos;s First Strike</title></programme>
 <programme start="20241130183000 +0000" stop="20241130200000 +0000" channel="Indosiar.id"><title lang="id">Pendekar Rase Terbang</title></programme>
 <programme start="20241130200000 +0000" stop="20241130213000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Forbiden City Cop</title></programme>
 <programme start="20241130213000 +0000" stop="20241130230000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
@@ -2928,10 +2928,10 @@
 <programme start="20241130081000 +0000" stop="20241130084800 +0000" channel="SPOTV.id"><title lang="id">Mixed Doubles Semifinals: Liao Pin Yi/Huang Ke Xin (CHN) vs Dechapol Puavaranukroh/Supissara Paewsampran (THA) | Syed Modi India International 2024</title></programme>
 <programme start="20241130084800 +0000" stop="20241130093800 +0000" channel="SPOTV.id"><title lang="id">Women&apos;s Singles Semifinals: Lalinrat Chaiwan (THA) vs Wu Luo Yu (CHN) | Syed Modi India International 2024</title></programme>
 <programme start="20241130093800 +0000" stop="20241130105200 +0000" channel="SPOTV.id"><title lang="id">Women&apos;s Doubles Semifinals: Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Treesa Jolly/Gayatri Gopichand Pullela (IND) | Syed Modi India International 2024</title></programme>
-<programme start="20241130105200 +0000" stop="20241130123000 +0000" channel="SPOTV.id"><title lang="id">Men&apos;s Singles Semifinals: Jia Heng Jason Teh (SGP) vs Priyanshu Rajawat (IND) | Syed Modi India International 2024</title></programme>
-<programme start="20241130123000 +0000" stop="20241130133000 +0000" channel="SPOTV.id"><title lang="id">Women&apos;s Doubles Semifinals: Tanisha Crasto/Ashwini Ponnappa (IND) vs Bao Li Jing/Li Qian (CHN) | Syed Modi India International 2024</title></programme>
-<programme start="20241130133000 +0000" stop="20241130143000 +0000" channel="SPOTV.id"><title lang="id">Men&apos;s Singles Semifinals: Lakshya Sen (IND) vs Shogo Ogawa (JPN) | Syed Modi India International 2024</title></programme>
-<programme start="20241130143000 +0000" stop="20241130153000 +0000" channel="SPOTV.id"><title lang="id">Matchweek 11 : Saudi Pro League Recap</title></programme>
+<programme start="20241130105200 +0000" stop="20241130115000 +0000" channel="SPOTV.id"><title lang="id">Men&apos;s Singles Semifinals: Jia Heng Jason Teh (SGP) vs Priyanshu Rajawat (IND) | Syed Modi India International 2024</title></programme>
+<programme start="20241130115000 +0000" stop="20241130130000 +0000" channel="SPOTV.id"><title lang="id">Women&apos;s Doubles Semifinals: Tanisha Crasto/Ashwini Ponnappa (IND) vs Bao Li Jing/Li Qian (CHN) | Syed Modi India International 2024</title></programme>
+<programme start="20241130130000 +0000" stop="20241130135700 +0000" channel="SPOTV.id"><title lang="id">Men&apos;s Singles Semifinals: Lakshya Sen (IND) vs Shogo Ogawa (JPN) | Syed Modi India International 2024</title></programme>
+<programme start="20241130135700 +0000" stop="20241130153000 +0000" channel="SPOTV.id"><title lang="id">Matchweek 11 : Saudi Pro League Recap</title></programme>
 <programme start="20241130153000 +0000" stop="20241130164500 +0000" channel="SPOTV.id"><title lang="id">Dubai T100 : PTO T100 Highlights Show &apos;24</title></programme>
 <programme start="20241130164500 +0000" stop="20241130190000 +0000" channel="SPOTV.id"><title lang="id">Al Shabab vs Al Hilal - ROSHN Saudi League</title></programme>
 <programme start="20241130190000 +0000" stop="20241130200000 +0000" channel="SPOTV.id"><title lang="id">Matchweek 11 : Saudi Pro League Recap</title></programme>
