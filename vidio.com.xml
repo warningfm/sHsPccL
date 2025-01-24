@@ -1,51 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250124">
-<channel id="ABCAustralia.au"><display-name>ABC Australia</display-name><url>https://vidio.com</url></channel>
-<channel id="AfricanewsEnglish.fr"><display-name>Africanews English</display-name><url>https://vidio.com</url></channel>
-<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</display-name><url>https://vidio.com</url></channel>
-<channel id="ANTV.id"><display-name>ANTV</display-name><url>https://vidio.com</url></channel>
-<channel id="ArirangWorld.kr"><display-name>Arirang World</display-name><url>https://vidio.com</url></channel>
-<channel id="beINSports1.id"><display-name>beIN Sports 1</display-name><url>https://vidio.com</url></channel>
-<channel id="beINSports2.id"><display-name>Bein 2</display-name><url>https://vidio.com</url></channel>
-<channel id="beINSports3.id"><display-name>beIN Sports 3</display-name><url>https://vidio.com</url></channel>
-<channel id="BTV.id"><display-name>BTV</display-name><url>https://vidio.com</url></channel>
-<channel id="ChampionsTV1.id"><display-name>Champions TV 1</display-name><url>https://vidio.com</url></channel>
-<channel id="ChampionsTV2.id"><display-name>Champions TV 2</display-name><url>https://vidio.com</url></channel>
-<channel id="ChampionsTV3.id"><display-name>Champions TV 3</display-name><url>https://vidio.com</url></channel>
-<channel id="ChampionsTV5.id"><display-name>Champions TV 5</display-name><url>https://vidio.com</url></channel>
-<channel id="ChampionsTV6.id"><display-name>Champions TV 6</display-name><url>https://vidio.com</url></channel>
-<channel id="ChampionsTVEPL.id"><display-name>Champions TV EPL</display-name><url>https://vidio.com</url></channel>
-<channel id="CNA.sg"><display-name>CNA</display-name><url>https://vidio.com</url></channel>
-<channel id="DAAITV.id"><display-name>DAAI TV</display-name><url>https://vidio.com</url></channel>
-<channel id="DWEnglish.de"><display-name>DW English</display-name><url>https://vidio.com</url></channel>
-<channel id="ElshintaTV.id"><display-name>Elshinta TV</display-name><url>https://vidio.com</url></channel>
-<channel id="EuronewsEnglish.fr"><display-name>Euronews English</display-name><url>https://vidio.com</url></channel>
-<channel id="Indosiar.id"><display-name>Indosiar</display-name><url>https://vidio.com</url></channel>
-<channel id="JakTV.id"><display-name>Jak TV</display-name><url>https://vidio.com</url></channel>
-<channel id="JPMTV.id"><display-name>JPM TV</display-name><url>https://vidio.com</url></channel>
-<channel id="JTV.id"><display-name>JTV</display-name><url>https://vidio.com</url></channel>
-<channel id="KompasTV.id"><display-name>Kompas TV</display-name><url>https://vidio.com</url></channel>
-<channel id="MagnaChannel.id"><display-name>Magna Channel</display-name><url>https://vidio.com</url></channel>
-<channel id="MetroGlobeNetwork.id"><display-name>Metro Globe Network</display-name><url>https://vidio.com</url></channel>
-<channel id="MetroTV.id"><display-name>Metro TV</display-name><url>https://vidio.com</url></channel>
-<channel id="Moji.id"><display-name>Moji</display-name><url>https://vidio.com</url></channel>
-<channel id="NBATV.us"><display-name>NBA TV</display-name><url>https://vidio.com</url></channel>
-<channel id="NET.id"><display-name>NET.</display-name><url>https://vidio.com</url></channel>
-<channel id="NHKWorldJapan.jp"><display-name>NHK World-Japan</display-name><url>https://vidio.com</url></channel>
-<channel id="NusantaraTV.id"><display-name>Nusantara TV</display-name><url>https://vidio.com</url></channel>
-<channel id="RajawaliTV.id"><display-name>Rajawali TV</display-name><url>https://vidio.com</url></channel>
-<channel id="RANSEntertainment.id"><display-name>RANS Entertainment</display-name><url>https://vidio.com</url></channel>
-<channel id="ROCKEntertainment.sg"><display-name>ROCK Entertainment</display-name><url>https://vidio.com</url></channel>
-<channel id="ROCKExtreme.sg"><display-name>ROCK Extreme</display-name><url>https://vidio.com</url></channel>
-<channel id="SCTV.id"><display-name>SCTV</display-name><url>https://vidio.com</url></channel>
-<channel id="SEAToday.id"><display-name>SEA Today</display-name><url>https://vidio.com</url></channel>
-<channel id="SPOTV2.id"><display-name>SPOTV 2</display-name><url>https://vidio.com</url></channel>
-<channel id="SPOTV.id"><display-name>SPOTV</display-name><url>https://vidio.com</url></channel>
-<channel id="Trans7.id"><display-name>Trans7</display-name><url>https://vidio.com</url></channel>
-<channel id="TransTV.id"><display-name>Trans TV</display-name><url>https://vidio.com</url></channel>
-<channel id="TV5MondeAsia.fr"><display-name>TV5Monde Asia</display-name><url>https://vidio.com</url></channel>
-<channel id="tvNAsia.hk"><display-name>tvN Asia</display-name><url>https://vidio.com</url></channel>
-<channel id="tvOne.id"><display-name>tvOne</display-name><url>https://vidio.com</url></channel>
-<channel id="TVRINasional.id"><display-name>TVRI Nasional</display-name><url>https://vidio.com</url></channel>
+<channel id="17875"><display-name>Bein 2</display-name><url>https://vidio.com</url></channel>
+<channel id="ABCAustralia.au"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://vidio.com</url></channel>
+<channel id="AfricanewsEnglish.fr"><display-name>AFRICANEWS TV</display-name><icon src="https://i.imgur.com/5UxU4zc.png"/><url>https://vidio.com</url></channel>
+<channel id="AlJazeeraEnglish.qa"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="ANTV.id"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="ArirangWorld.kr"><display-name>Arirang</display-name><icon src="https://i.imgur.com/5Aoithj.png"/><url>https://vidio.com</url></channel>
+<channel id="beINSports1.id"><display-name>Bein 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/><url>https://vidio.com</url></channel>
+<channel id="beINSports3.id"><display-name>Bein 3</display-name><icon src="https://i.imgur.com/UYSMao3.png"/><url>https://vidio.com</url></channel>
+<channel id="BTV.id"><display-name>BTV</display-name><icon src="https://i.imgur.com/fdygcVx.png"/><url>https://vidio.com</url></channel>
+<channel id="ChampionsTV1.id"><display-name>CTV 1</display-name><icon src="https://i.imgur.com/ctwmSHa.png"/><url>https://vidio.com</url></channel>
+<channel id="ChampionsTV2.id"><display-name>CTV 2</display-name><icon src="https://i.imgur.com/oYUUKra.png"/><url>https://vidio.com</url></channel>
+<channel id="ChampionsTV3.id"><display-name>CTV 3</display-name><icon src="https://i.imgur.com/xVwVIj6.png"/><url>https://vidio.com</url></channel>
+<channel id="ChampionsTV5.id"><display-name>CTV 5</display-name><icon src="https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg"/><url>https://vidio.com</url></channel>
+<channel id="ChampionsTV6.id"><display-name>CTV 6</display-name><icon src="https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg"/><url>https://vidio.com</url></channel>
+<channel id="ChampionsTVEPL.id"><display-name>Premier League TV</display-name><icon src="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg"/><url>https://vidio.com</url></channel>
+<channel id="CNA.sg"><display-name>News Asia</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://vidio.com</url></channel>
+<channel id="DAAITV.id"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://vidio.com</url></channel>
+<channel id="DWEnglish.de"><display-name>DW English</display-name><icon src="https://i.imgur.com/A1xzjOI.png"/><url>https://vidio.com</url></channel>
+<channel id="ElshintaTV.id"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
+<channel id="EuronewsEnglish.fr"><display-name>Euro News</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/><url>https://vidio.com</url></channel>
+<channel id="Indosiar.id"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="JakTV.id"><display-name>Jaktv</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://vidio.com</url></channel>
+<channel id="JPMTV.id"><display-name>jawaposTV</display-name><icon src="https://i.imgur.com/FM6WN4S.png"/><url>https://vidio.com</url></channel>
+<channel id="JTV.id"><display-name>JTV</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/><url>https://vidio.com</url></channel>
+<channel id="KompasTV.id"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://vidio.com</url></channel>
+<channel id="MagnaChannel.id"><display-name>Magna TV</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://vidio.com</url></channel>
+<channel id="MetroGlobeNetwork.id"><display-name>Metro Globe Network</display-name><icon src="https://i.imgur.com/aiiinzg.png"/><url>https://vidio.com</url></channel>
+<channel id="MetroTV.id"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://vidio.com</url></channel>
+<channel id="Moji.id"><display-name>Moji</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://vidio.com</url></channel>
+<channel id="NBATV.us"><display-name>NBA TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="NET.id"><display-name>NET TV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://vidio.com</url></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK World Japan</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="NusantaraTV.id"><display-name>Nusantara TV</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://vidio.com</url></channel>
+<channel id="RajawaliTV.id"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://vidio.com</url></channel>
+<channel id="RANSEntertainment.id"><display-name>RANS Channel</display-name><icon src="https://i.imgur.com/YV8nB40.png"/><url>https://vidio.com</url></channel>
+<channel id="ROCKEntertainment.sg"><display-name>ROCK Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://vidio.com</url></channel>
+<channel id="ROCKExtreme.sg"><display-name>Rock Action</display-name><icon src="https://i.imgur.com/3U1JpHm.png"/><url>https://vidio.com</url></channel>
+<channel id="SCTV.id"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
+<channel id="SEAToday.id"><display-name>SEA TODAY</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png"/><url>https://vidio.com</url></channel>
+<channel id="SPOTV2.id"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://vidio.com</url></channel>
+<channel id="SPOTV.id"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://vidio.com</url></channel>
+<channel id="Trans7.id"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://vidio.com</url></channel>
+<channel id="TransTV.id"><display-name>TRANS TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="TV5MondeAsia.fr"><display-name>TV5Monde</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/><url>https://vidio.com</url></channel>
+<channel id="tvNAsia.hk"><display-name>TVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="tvOne.id"><display-name>TVOne</display-name><icon src="https://i.imgur.com/LCzQYdy.png"/><url>https://vidio.com</url></channel>
+<channel id="TVRINasional.id"><display-name>TVRI</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"/><url>https://vidio.com</url></channel>
+<programme start="20250123170000 +0000" stop="20250123213000 +0000" channel="17875"><title lang="id">Day 12 Women&apos;s Singles Semi-finals : 2025 Australian Open Tennis</title></programme>
+<programme start="20250123213000 +0000" stop="20250123233000 +0000" channel="17875"><title lang="id">Women Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
+<programme start="20250123233000 +0000" stop="20250124003000 +0000" channel="17875"><title lang="id">Day 12 : 2025 Australian Open Highlight Show</title></programme>
+<programme start="20250124003000 +0000" stop="20250124033000 +0000" channel="17875"><title lang="id">Kimberly birrell/John Patrick Smith (AUS) vs Olivia Gadecki/John Peers (AUS) - Mixed Doubles Finals | Australian Open 2025</title></programme>
+<programme start="20250124033000 +0000" stop="20250124055700 +0000" channel="17875"><title lang="id">Novak Djokovic (SER) vs Alexander Zverev (GER) - Men&apos;s Singles Semifinal | Australian Open 2025</title></programme>
+<programme start="20250124055700 +0000" stop="20250124080000 +0000" channel="17875"><title lang="id">Australian Open 2025</title></programme>
+<programme start="20250124080000 +0000" stop="20250124115200 +0000" channel="17875"><title lang="id">Jannik Sinner (ITA) vs Ben Shelton (USA) - Men&apos;s Singles Semifinal | Australian Open 2025</title></programme>
+<programme start="20250124115200 +0000" stop="20250124144500 +0000" channel="17875"><title lang="id">Men Singles - Semi-Final: Novak Djokovic vs. Alexander Zverev : 2025 Australian Open Tennis</title></programme>
+<programme start="20250124144500 +0000" stop="20250124160000 +0000" channel="17875"><title lang="id">Mixed Doubles - Final: Birrell Smith vs. Gadecki/Peers : 2025 Australian Open Tennis</title></programme>
+<programme start="20250124160000 +0000" stop="20250124190000 +0000" channel="17875"><title lang="id">Men Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
+<programme start="20250124190000 +0000" stop="20250124210000 +0000" channel="17875"><title lang="id">Mixed Doubles - Final : 2025 Australian Open Tennis</title></programme>
+<programme start="20250124210000 +0000" stop="20250125000000 +0000" channel="17875"><title lang="id">Men Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
+<programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="17875"><title lang="id">Day 13 : 2025 Australian Open Highlight Show</title></programme>
+<programme start="20250125010000 +0000" stop="20250125030000 +0000" channel="17875"><title lang="id">Australian Open 2025: Girls&apos; Junior Final - Day 14</title></programme>
+<programme start="20250125030000 +0000" stop="20250125050000 +0000" channel="17875"><title lang="id">Australian Open 2025: Boys&apos; Junior Final - Day 14</title></programme>
+<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="17875"><title lang="id">Day 13 : 2025 Australian Open Highlight Show</title></programme>
+<programme start="20250125060000 +0000" stop="20250125080000 +0000" channel="17875"><title lang="id">Women Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
+<programme start="20250125080000 +0000" stop="20250125103000 +0000" channel="17875"><title lang="id">Aryna Sabalenka (BLR) vs Madison Keys (USA) - Women&apos;s Singles Finals | Australian Open 2025</title></programme>
+<programme start="20250125103000 +0000" stop="20250125130000 +0000" channel="17875"><title lang="id">Australian Open 2025: Men&apos;s Doubles Final - Day 14</title></programme>
+<programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="17875"><title lang="id">Women Singles - Final : 2025 Australian Open Tennis</title></programme>
+<programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="17875"><title lang="id">Men Doubles - Final : 2025 Australian Open Tennis</title></programme>
 <programme start="20250123170000 +0000" stop="20250123171500 +0000" channel="ABCAustralia.au"><title lang="id">Outback Chefs : Wide Open Spaces</title></programme>
 <programme start="20250123171500 +0000" stop="20250123173000 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
 <programme start="20250123173000 +0000" stop="20250123182500 +0000" channel="ABCAustralia.au"><title lang="id">Who The Bloody Hell Are We? With John Safran : Who The Bloody Hell Are We?</title></programme>
@@ -513,20 +534,20 @@
 <programme start="20250124100000 +0000" stop="20250124113000 +0000" channel="ANTV.id"><title lang="id">Janji Cinta Inspektur Virat</title></programme>
 <programme start="20250124113000 +0000" stop="20250124133000 +0000" channel="ANTV.id"><title lang="id">Aini &quot;Malaikat Tak Bersayap&quot;</title></programme>
 <programme start="20250124133000 +0000" stop="20250124153000 +0000" channel="ANTV.id"><title lang="id">Sinema Laga Klasik: Rajawali Sakti</title></programme>
-<programme start="20250124153000 +0000" stop="20250124170000 +0000" channel="ANTV.id"><title lang="id">Sinema Laga Klasik: 3 Janggo</title></programme>
-<programme start="20250124180000 +0000" stop="20250124183000 +0000" channel="ANTV.id"><title lang="id">Memburu Misteri</title></programme>
-<programme start="20250124183000 +0000" stop="20250124203000 +0000" channel="ANTV.id"><title lang="id">AB Shop Home Shopping</title></programme>
-<programme start="20250124203000 +0000" stop="20250124210000 +0000" channel="ANTV.id"><title lang="id">Inayah</title></programme>
-<programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="ANTV.id"><title lang="id">Senyum Iman</title></programme>
-<programme start="20250124213000 +0000" stop="20250124223000 +0000" channel="ANTV.id"><title lang="id">Sunny Bunnies</title></programme>
-<programme start="20250124223000 +0000" stop="20250125010000 +0000" channel="ANTV.id"><title lang="id">Shiva</title></programme>
-<programme start="20250125010000 +0000" stop="20250125013000 +0000" channel="ANTV.id"><title lang="id">Masha and the Bear</title></programme>
-<programme start="20250125013000 +0000" stop="20250125050000 +0000" channel="ANTV.id"><title lang="id">Ok Jaanu</title></programme>
-<programme start="20250125050000 +0000" stop="20250125070000 +0000" channel="ANTV.id"><title lang="id">Jodha Akbar</title></programme>
-<programme start="20250125070000 +0000" stop="20250125090000 +0000" channel="ANTV.id"><title lang="id">Kasautii</title></programme>
-<programme start="20250125090000 +0000" stop="20250125123000 +0000" channel="ANTV.id"><title lang="id">Bhagya Lakshmi</title></programme>
-<programme start="20250125123000 +0000" stop="20250125150000 +0000" channel="ANTV.id"><title lang="id">Imlie</title></programme>
-<programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="ANTV.id"><title lang="id">One Pride MMA</title></programme>
+<programme start="20250124153000 +0000" stop="20250124173000 +0000" channel="ANTV.id"><title lang="id">Sinema Laga Klasik: 3 Janggo</title></programme>
+<programme start="20250124173000 +0000" stop="20250124190000 +0000" channel="ANTV.id"><title lang="id">JODOH WASIAT BAPAK BABAK 2</title></programme>
+<programme start="20250124190000 +0000" stop="20250124203000 +0000" channel="ANTV.id"><title lang="id">KUN FAYAKUN</title></programme>
+<programme start="20250124203000 +0000" stop="20250124220000 +0000" channel="ANTV.id"><title lang="id">ANANDHI</title></programme>
+<programme start="20250124220000 +0000" stop="20250124223000 +0000" channel="ANTV.id"><title lang="id">SENYUM IMAN</title></programme>
+<programme start="20250124223000 +0000" stop="20250125003000 +0000" channel="ANTV.id"><title lang="id">Masha and the Bear</title></programme>
+<programme start="20250125003000 +0000" stop="20250125023000 +0000" channel="ANTV.id"><title lang="id">SINEMA SPESIAL - SENGGOL SENGGOLAN</title></programme>
+<programme start="20250125023000 +0000" stop="20250125060000 +0000" channel="ANTV.id"><title lang="id">MEGA BOLLYWOOD - RA-ONE</title></programme>
+<programme start="20250125060000 +0000" stop="20250125083000 +0000" channel="ANTV.id"><title lang="id">ANUPAMAA</title></programme>
+<programme start="20250125083000 +0000" stop="20250125100000 +0000" channel="ANTV.id"><title lang="id">Imlie</title></programme>
+<programme start="20250125100000 +0000" stop="20250125113000 +0000" channel="ANTV.id"><title lang="id">JANJI CINTA INSPEKTUR VIRAT</title></programme>
+<programme start="20250125113000 +0000" stop="20250125133000 +0000" channel="ANTV.id"><title lang="id">AINI &quot;MALAIKAT TAK BERSAYAP&quot;</title></programme>
+<programme start="20250125133000 +0000" stop="20250125153000 +0000" channel="ANTV.id"><title lang="id">SINEMA LAGA KLASIK - TARZAN RIMBA</title></programme>
+<programme start="20250125153000 +0000" stop="20250125173000 +0000" channel="ANTV.id"><title lang="id">SINEMA LAGA KLASIK - RATU AMPLOP</title></programme>
 <programme start="20250123170000 +0000" stop="20250123173000 +0000" channel="ArirangWorld.kr"><title lang="id">The Kulture Wave</title></programme>
 <programme start="20250123173000 +0000" stop="20250123180000 +0000" channel="ArirangWorld.kr"><title lang="id">Within the Frame</title></programme>
 <programme start="20250123180000 +0000" stop="20250123183000 +0000" channel="ArirangWorld.kr"><title lang="id">Home Explorers</title></programme>
@@ -682,25 +703,6 @@
 <programme start="20250125135000 +0000" stop="20250125145000 +0000" channel="beINSports1.id"><title lang="id">New Zealand Sail Grand Prix : SailGP Racing</title></programme>
 <programme start="20250125145000 +0000" stop="20250125150800 +0000" channel="beINSports1.id"><title lang="id">Riyadh Season P1: Men&apos;s Final : Premier Padel Major</title></programme>
 <programme start="20250125150800 +0000" stop="20250125172000 +0000" channel="beINSports1.id"><title lang="id">Cordoba vs. Racing Santander : Spanish Segunda Division Soccer</title></programme>
-<programme start="20250123170000 +0000" stop="20250123213000 +0000" channel="beINSports2.id"><title lang="id">Day 12 Women&apos;s Singles Semi-finals : 2025 Australian Open Tennis</title></programme>
-<programme start="20250123213000 +0000" stop="20250123233000 +0000" channel="beINSports2.id"><title lang="id">Women Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250123233000 +0000" stop="20250124003000 +0000" channel="beINSports2.id"><title lang="id">Day 12 : 2025 Australian Open Highlight Show</title></programme>
-<programme start="20250124003000 +0000" stop="20250124033000 +0000" channel="beINSports2.id"><title lang="id">Kimberly birrell/John Patrick Smith (AUS) vs Olivia Gadecki/John Peers (AUS) - Mixed Doubles Finals | Australian Open 2025</title></programme>
-<programme start="20250124033000 +0000" stop="20250124080000 +0000" channel="beINSports2.id"><title lang="id">Australian Open 2025: Men&apos;s Singles Semifinal 1 - Day 13</title></programme>
-<programme start="20250124080000 +0000" stop="20250124130000 +0000" channel="beINSports2.id"><title lang="id">Australian Open 2025: Men&apos;s Singles Semifinal 2 - Day 13</title></programme>
-<programme start="20250124130000 +0000" stop="20250124160000 +0000" channel="beINSports2.id"><title lang="id">Men Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250124160000 +0000" stop="20250124190000 +0000" channel="beINSports2.id"><title lang="id">Men Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250124190000 +0000" stop="20250124210000 +0000" channel="beINSports2.id"><title lang="id">Mixed Doubles - Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250124210000 +0000" stop="20250125000000 +0000" channel="beINSports2.id"><title lang="id">Men Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="beINSports2.id"><title lang="id">Day 13 : 2025 Australian Open Highlight Show</title></programme>
-<programme start="20250125010000 +0000" stop="20250125030000 +0000" channel="beINSports2.id"><title lang="id">Girls&apos; Junior Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250125030000 +0000" stop="20250125050000 +0000" channel="beINSports2.id"><title lang="id">Boys&apos; Junior Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="beINSports2.id"><title lang="id">Day 13 : 2025 Australian Open Highlight Show</title></programme>
-<programme start="20250125060000 +0000" stop="20250125080000 +0000" channel="beINSports2.id"><title lang="id">Women Singles - Semi-Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250125080000 +0000" stop="20250125103000 +0000" channel="beINSports2.id"><title lang="id">Women Singles - Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250125103000 +0000" stop="20250125130000 +0000" channel="beINSports2.id"><title lang="id">Men Doubles - Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="beINSports2.id"><title lang="id">Women Singles - Final : 2025 Australian Open Tennis</title></programme>
-<programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="beINSports2.id"><title lang="id">Men Doubles - Final : 2025 Australian Open Tennis</title></programme>
 <programme start="20250123170000 +0000" stop="20250123174000 +0000" channel="beINSports3.id"><title lang="id">Lifeblood: Developing People : MUTV</title></programme>
 <programme start="20250123174000 +0000" stop="20250123195500 +0000" channel="beINSports3.id"><title lang="id">AZ Alkmaar vs Roma - UEFA Europa League</title></programme>
 <programme start="20250123195500 +0000" stop="20250123220000 +0000" channel="beINSports3.id"><title lang="id">Lazio vs. Real Sociedad : UEFA Europa League Soccer</title></programme>
@@ -776,36 +778,39 @@
 <programme start="20250124143000 +0000" stop="20250124150000 +0000" channel="BTV.id"><title lang="id">Jendela Dunia</title></programme>
 <programme start="20250124150000 +0000" stop="20250124160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20250124160000 +0000" stop="20250124163000 +0000" channel="BTV.id"><title lang="id">Mitos</title></programme>
-<programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="BTV.id"><title lang="id">One Vault 2022</title></programme>
-<programme start="20250124170000 +0000" stop="20250124170500 +0000" channel="BTV.id"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20250124170500 +0000" stop="20250124180000 +0000" channel="BTV.id"><title lang="id">Delta</title></programme>
+<programme start="20250124163000 +0000" stop="20250124173000 +0000" channel="BTV.id"><title lang="id">One Vault 2022</title></programme>
+<programme start="20250124173000 +0000" stop="20250124180000 +0000" channel="BTV.id"><title lang="id">FILM PENDEK INDONESIA</title></programme>
 <programme start="20250124180000 +0000" stop="20250124180300 +0000" channel="BTV.id"><title lang="id">Lagu Tanah Airku</title></programme>
-<programme start="20250124180300 +0000" stop="20250124190000 +0000" channel="BTV.id"><title lang="id">Obrolan Malam Bersama Fristian</title></programme>
-<programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20250124180300 +0000" stop="20250124183000 +0000" channel="BTV.id"><title lang="id">FIGUR PUBLIK (LEBIH DALAM)</title></programme>
+<programme start="20250124183000 +0000" stop="20250124190000 +0000" channel="BTV.id"><title lang="id">KUYLINER</title></programme>
+<programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="BTV.id"><title lang="id">BERITA SATU SIANG</title></programme>
 <programme start="20250124200000 +0000" stop="20250124210000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="BTV.id"><title lang="id">Sportainment</title></programme>
-<programme start="20250124213000 +0000" stop="20250124230000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
-<programme start="20250124230000 +0000" stop="20250125000000 +0000" channel="BTV.id"><title lang="id">Asal Usul</title></programme>
-<programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
-<programme start="20250125010000 +0000" stop="20250125013000 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
-<programme start="20250125013000 +0000" stop="20250125020000 +0000" channel="BTV.id"><title lang="id">Euromax</title></programme>
-<programme start="20250125020000 +0000" stop="20250125023000 +0000" channel="BTV.id"><title lang="id">Endeus</title></programme>
-<programme start="20250125023000 +0000" stop="20250125030000 +0000" channel="BTV.id"><title lang="id">Film Pendek Indonesia</title></programme>
-<programme start="20250125030000 +0000" stop="20250125030500 +0000" channel="BTV.id"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20250125030500 +0000" stop="20250125040000 +0000" channel="BTV.id"><title lang="id">Jendela Dunia</title></programme>
+<programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="BTV.id"><title lang="id">BERITA VIRAL</title></programme>
+<programme start="20250124213000 +0000" stop="20250124223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20250124223000 +0000" stop="20250124230000 +0000" channel="BTV.id"><title lang="id">JENDELA DUNIA</title></programme>
+<programme start="20250124230000 +0000" stop="20250124230300 +0000" channel="BTV.id"><title lang="id">INDONESIA RAYA</title></programme>
+<programme start="20250124230300 +0000" stop="20250125000000 +0000" channel="BTV.id"><title lang="id">JALAN DAKWAH</title></programme>
+<programme start="20250125000000 +0000" stop="20250125003000 +0000" channel="BTV.id"><title lang="id">MASAK ALA DEVINA HERMAWAN</title></programme>
+<programme start="20250125003000 +0000" stop="20250125011500 +0000" channel="BTV.id"><title lang="id">DIDI &amp; FRIENDS</title></programme>
+<programme start="20250125011500 +0000" stop="20250125021500 +0000" channel="BTV.id"><title lang="id">BOONIE BEARS</title></programme>
+<programme start="20250125021500 +0000" stop="20250125030000 +0000" channel="BTV.id"><title lang="id">MOTU PATLU</title></programme>
+<programme start="20250125030000 +0000" stop="20250125033000 +0000" channel="BTV.id"><title lang="id">VACATION LIST</title></programme>
+<programme start="20250125033000 +0000" stop="20250125040000 +0000" channel="BTV.id"><title lang="id">INI INDONESIA</title></programme>
 <programme start="20250125040000 +0000" stop="20250125050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
 <programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah Bersama Gus Miftah</title></programme>
-<programme start="20250125060000 +0000" stop="20250125070000 +0000" channel="BTV.id"><title lang="id">Film Pendek Indonesia</title></programme>
-<programme start="20250125070000 +0000" stop="20250125080000 +0000" channel="BTV.id"><title lang="id">Bioskop Multivision</title></programme>
-<programme start="20250125080000 +0000" stop="20250125080500 +0000" channel="BTV.id"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20250125080500 +0000" stop="20250125085500 +0000" channel="BTV.id"><title lang="id">Bioskop Multivision</title></programme>
-<programme start="20250125085500 +0000" stop="20250125103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20250125103000 +0000" stop="20250125113000 +0000" channel="BTV.id"><title lang="id">Enjoy Popular Musik Epik</title></programme>
-<programme start="20250125113000 +0000" stop="20250125121500 +0000" channel="BTV.id"><title lang="id">Jendela Dunia</title></programme>
-<programme start="20250125121500 +0000" stop="20250125130000 +0000" channel="BTV.id"><title lang="id">Asal Usul</title></programme>
-<programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="BTV.id"><title lang="id">Bioskop Multivision</title></programme>
-<programme start="20250125150000 +0000" stop="20250125160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20250125160000 +0000" stop="20250125170000 +0000" channel="BTV.id"><title lang="id">One Vault 2021</title></programme>
+<programme start="20250125060000 +0000" stop="20250125064500 +0000" channel="BTV.id"><title lang="id">RUANG TENGAH</title></programme>
+<programme start="20250125064500 +0000" stop="20250125081500 +0000" channel="BTV.id"><title lang="id">DIDI &amp; FRIENDS</title></programme>
+<programme start="20250125081500 +0000" stop="20250125094500 +0000" channel="BTV.id"><title lang="id">BOONIE BEARS</title></programme>
+<programme start="20250125094500 +0000" stop="20250125110000 +0000" channel="BTV.id"><title lang="id">MOTU PATLU</title></programme>
+<programme start="20250125110000 +0000" stop="20250125114500 +0000" channel="BTV.id"><title lang="id">DUNIA BINATANG</title></programme>
+<programme start="20250125114500 +0000" stop="20250125121500 +0000" channel="BTV.id"><title lang="id">INFO SELEB</title></programme>
+<programme start="20250125121500 +0000" stop="20250125130000 +0000" channel="BTV.id"><title lang="id">BERITA VIRAL</title></programme>
+<programme start="20250125130000 +0000" stop="20250125134500 +0000" channel="BTV.id"><title lang="id">SETULUS HATI</title></programme>
+<programme start="20250125134500 +0000" stop="20250125143000 +0000" channel="BTV.id"><title lang="id">COCOKLOGI</title></programme>
+<programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="BTV.id"><title lang="id">JENDELA DUNIA</title></programme>
+<programme start="20250125150000 +0000" stop="20250125160000 +0000" channel="BTV.id"><title lang="id">BERITA SATU MALAM</title></programme>
+<programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="BTV.id"><title lang="id">GEARING UP</title></programme>
+<programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="BTV.id"><title lang="id">IN GOOD SHAPES</title></programme>
 <programme start="20250123170000 +0000" stop="20250123190000 +0000" channel="ChampionsTV1.id"><title lang="id">Heerenveen vs. Ajax : Eredivisie Soccer</title></programme>
 <programme start="20250123190000 +0000" stop="20250123193000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20250123193000 +0000" stop="20250123195500 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
@@ -819,7 +824,8 @@
 <programme start="20250124053000 +0000" stop="20250124060000 +0000" channel="ChampionsTV1.id"><title lang="id">Darts</title></programme>
 <programme start="20250124060000 +0000" stop="20250124070000 +0000" channel="ChampionsTV1.id"><title lang="id">Liga Portugal - Highlights</title></programme>
 <programme start="20250124070000 +0000" stop="20250124071500 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
-<programme start="20250124071500 +0000" stop="20250124120000 +0000" channel="ChampionsTV1.id"><title lang="id">Naoya Inoue vs Ye Joon Kim - Undisputed Super Bantamweight Championship</title></programme>
+<programme start="20250124071500 +0000" stop="20250124115500 +0000" channel="ChampionsTV1.id"><title lang="id">Naoya Inoue vs Ye Joon Kim - Undisputed Super Bantamweight Championship</title></programme>
+<programme start="20250124115500 +0000" stop="20250124120000 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
 <programme start="20250124140000 +0000" stop="20250124143000 +0000" channel="ChampionsTV1.id"><title lang="id">Mavericks</title></programme>
 <programme start="20250124150000 +0000" stop="20250124170000 +0000" channel="ChampionsTV1.id"><title lang="id">Parma vs. Venezia : Italian Serie A Soccer</title></programme>
 <programme start="20250124170000 +0000" stop="20250124190000 +0000" channel="ChampionsTV1.id"><title lang="id">Wrexham vs. Birmingham City : English League One Soccer</title></programme>
@@ -882,8 +888,8 @@
 <programme start="20250124013000 +0000" stop="20250124020000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA On Fire</title></programme>
 <programme start="20250124020000 +0000" stop="20250124023000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20250124023000 +0000" stop="20250124030000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
-<programme start="20250124030000 +0000" stop="20250124053000 +0000" channel="ChampionsTV3.id"><title lang="id">Boston Celtics vs LA Lakers - NBA</title></programme>
-<programme start="20250124053000 +0000" stop="20250124080000 +0000" channel="ChampionsTV3.id"><title lang="id">Philadelphia 76ers at Denver Nuggets : NBA Basketball</title></programme>
+<programme start="20250124030000 +0000" stop="20250124052800 +0000" channel="ChampionsTV3.id"><title lang="id">Boston Celtics vs LA Lakers - NBA</title></programme>
+<programme start="20250124052800 +0000" stop="20250124080000 +0000" channel="ChampionsTV3.id"><title lang="id">Philadelphia 76ers at Denver Nuggets : NBA Basketball</title></programme>
 <programme start="20250124080000 +0000" stop="20250124100000 +0000" channel="ChampionsTV3.id"><title lang="id">2021 Roland-Garros Tennis</title></programme>
 <programme start="20250124100000 +0000" stop="20250124130000 +0000" channel="ChampionsTV3.id"><title lang="id">Anhelina Kalinina (UKR) vs Kimberly Birrell (AUS) : 2025 Brisbane International Tennis</title></programme>
 <programme start="20250124130000 +0000" stop="20250124150000 +0000" channel="ChampionsTV3.id"><title lang="id">Qatar Open, Match of the Day : WTA Tennis</title></programme>
@@ -1197,146 +1203,75 @@
 <programme start="20250125150000 +0000" stop="20250125163000 +0000" channel="DWEnglish.de"><title lang="id">DW News</title></programme>
 <programme start="20250125163000 +0000" stop="20250125171500 +0000" channel="DWEnglish.de"><title lang="id">DW News</title></programme>
 <programme start="20250123170000 +0000" stop="20250123173000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan - Jalan</title></programme>
-<programme start="20250123170000 +0000" stop="20250123173000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan - Jalan</title></programme>
-<programme start="20250123173000 +0000" stop="20250123180000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250123173000 +0000" stop="20250123180000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250123180000 +0000" stop="20250123180500 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Tanah Airku</title></programme>
-<programme start="20250123180000 +0000" stop="20250123180500 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Tanah Airku</title></programme>
-<programme start="20250123180500 +0000" stop="20250123181500 +0000" channel="ElshintaTV.id"><title lang="id">Bumper Still : Kami Akan Kembali Pukul</title></programme>
 <programme start="20250123180500 +0000" stop="20250123181500 +0000" channel="ElshintaTV.id"><title lang="id">Bumper Still : Kami Akan Kembali Pukul</title></programme>
 <programme start="20250123181500 +0000" stop="20250123183000 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20250123181500 +0000" stop="20250123183000 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20250123183000 +0000" stop="20250123215500 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20250123183000 +0000" stop="20250123215500 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20250123215500 +0000" stop="20250123220000 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Indonesia Raya</title></programme>
-<programme start="20250123215500 +0000" stop="20250123220000 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Indonesia Raya</title></programme>
-<programme start="20250123220000 +0000" stop="20250123223000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250123220000 +0000" stop="20250123223000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250123223000 +0000" stop="20250123230000 +0000" channel="ElshintaTV.id"><title lang="id">Jakarta Jakarta</title></programme>
-<programme start="20250123223000 +0000" stop="20250123230000 +0000" channel="ElshintaTV.id"><title lang="id">Jakarta Jakarta</title></programme>
-<programme start="20250123230000 +0000" stop="20250123233000 +0000" channel="ElshintaTV.id"><title lang="id">Komunitas</title></programme>
 <programme start="20250123230000 +0000" stop="20250123233000 +0000" channel="ElshintaTV.id"><title lang="id">Komunitas</title></programme>
 <programme start="20250123233000 +0000" stop="20250124000000 +0000" channel="ElshintaTV.id"><title lang="id">Bumbu Dapoer</title></programme>
-<programme start="20250123233000 +0000" stop="20250124000000 +0000" channel="ElshintaTV.id"><title lang="id">Bumbu Dapoer</title></programme>
-<programme start="20250124000000 +0000" stop="20250124003000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan Jalan Yuu</title></programme>
 <programme start="20250124000000 +0000" stop="20250124003000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan Jalan Yuu</title></programme>
 <programme start="20250124003000 +0000" stop="20250124010000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
-<programme start="20250124003000 +0000" stop="20250124010000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
-<programme start="20250124010000 +0000" stop="20250124020000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
 <programme start="20250124010000 +0000" stop="20250124020000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
 <programme start="20250124020000 +0000" stop="20250124030000 +0000" channel="ElshintaTV.id"><title lang="id">Dokterku</title></programme>
-<programme start="20250124020000 +0000" stop="20250124030000 +0000" channel="ElshintaTV.id"><title lang="id">Dokterku</title></programme>
-<programme start="20250124030000 +0000" stop="20250124040000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
 <programme start="20250124030000 +0000" stop="20250124040000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
 <programme start="20250124040000 +0000" stop="20250124050000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
-<programme start="20250124040000 +0000" stop="20250124050000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
-<programme start="20250124050000 +0000" stop="20250124053000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250124050000 +0000" stop="20250124053000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250124053000 +0000" stop="20250124063000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250124053000 +0000" stop="20250124063000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250124063000 +0000" stop="20250124070000 +0000" channel="ElshintaTV.id"><title lang="id">Bilik Sehat</title></programme>
 <programme start="20250124063000 +0000" stop="20250124070000 +0000" channel="ElshintaTV.id"><title lang="id">Bilik Sehat</title></programme>
 <programme start="20250124070000 +0000" stop="20250124080000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
-<programme start="20250124070000 +0000" stop="20250124080000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
-<programme start="20250124080000 +0000" stop="20250124083000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
 <programme start="20250124080000 +0000" stop="20250124083000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
 <programme start="20250124083000 +0000" stop="20250124090000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
-<programme start="20250124083000 +0000" stop="20250124090000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
-<programme start="20250124090000 +0000" stop="20250124100000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
 <programme start="20250124090000 +0000" stop="20250124100000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
 <programme start="20250124100000 +0000" stop="20250124110000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250124100000 +0000" stop="20250124110000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250124110000 +0000" stop="20250124120000 +0000" channel="ElshintaTV.id"><title lang="id">Dokterku</title></programme>
 <programme start="20250124110000 +0000" stop="20250124120000 +0000" channel="ElshintaTV.id"><title lang="id">Dokterku</title></programme>
 <programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250124130000 +0000" stop="20250124133000 +0000" channel="ElshintaTV.id"><title lang="id">Jakarta Jakarta</title></programme>
 <programme start="20250124130000 +0000" stop="20250124133000 +0000" channel="ElshintaTV.id"><title lang="id">Jakarta Jakarta</title></programme>
 <programme start="20250124133000 +0000" stop="20250124143000 +0000" channel="ElshintaTV.id"><title lang="id">Teras Sore</title></programme>
-<programme start="20250124133000 +0000" stop="20250124143000 +0000" channel="ElshintaTV.id"><title lang="id">Teras Sore</title></programme>
-<programme start="20250124143000 +0000" stop="20250124150000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250124143000 +0000" stop="20250124150000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250124150000 +0000" stop="20250124153000 +0000" channel="ElshintaTV.id"><title lang="id">Sehat Natura - Pak Kobra</title></programme>
-<programme start="20250124150000 +0000" stop="20250124153000 +0000" channel="ElshintaTV.id"><title lang="id">Sehat Natura - Pak Kobra</title></programme>
-<programme start="20250124153000 +0000" stop="20250124160000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
 <programme start="20250124153000 +0000" stop="20250124160000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
 <programme start="20250124160000 +0000" stop="20250124163000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
-<programme start="20250124160000 +0000" stop="20250124163000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
-<programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="ElshintaTV.id"><title lang="id">Kisi-kisi</title></programme>
 <programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="ElshintaTV.id"><title lang="id">Kisi-kisi</title></programme>
 <programme start="20250124170000 +0000" stop="20250124173000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan - Jalan</title></programme>
-<programme start="20250124170000 +0000" stop="20250124173000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan - Jalan</title></programme>
-<programme start="20250124173000 +0000" stop="20250124180000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250124173000 +0000" stop="20250124180000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250124180000 +0000" stop="20250124180500 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Tanah Airku</title></programme>
-<programme start="20250124180000 +0000" stop="20250124180500 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Tanah Airku</title></programme>
-<programme start="20250124180500 +0000" stop="20250124181500 +0000" channel="ElshintaTV.id"><title lang="id">Bumper Still : Kami Akan Kembali Pukul</title></programme>
 <programme start="20250124180500 +0000" stop="20250124181500 +0000" channel="ElshintaTV.id"><title lang="id">Bumper Still : Kami Akan Kembali Pukul</title></programme>
 <programme start="20250124181500 +0000" stop="20250124183000 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20250124181500 +0000" stop="20250124183000 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20250124183000 +0000" stop="20250124215500 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20250124183000 +0000" stop="20250124215500 +0000" channel="ElshintaTV.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20250124215500 +0000" stop="20250124220000 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Indonesia Raya</title></programme>
-<programme start="20250124215500 +0000" stop="20250124220000 +0000" channel="ElshintaTV.id"><title lang="id">Lagu Indonesia Raya</title></programme>
-<programme start="20250124220000 +0000" stop="20250124223000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250124220000 +0000" stop="20250124223000 +0000" channel="ElshintaTV.id"><title lang="id">Risalah Iman</title></programme>
 <programme start="20250124223000 +0000" stop="20250124230000 +0000" channel="ElshintaTV.id"><title lang="id">Komunitas</title></programme>
-<programme start="20250124223000 +0000" stop="20250124230000 +0000" channel="ElshintaTV.id"><title lang="id">Komunitas</title></programme>
-<programme start="20250124230000 +0000" stop="20250124233000 +0000" channel="ElshintaTV.id"><title lang="id">Yoga</title></programme>
 <programme start="20250124230000 +0000" stop="20250124233000 +0000" channel="ElshintaTV.id"><title lang="id">Yoga</title></programme>
 <programme start="20250124233000 +0000" stop="20250125000000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
-<programme start="20250124233000 +0000" stop="20250125000000 +0000" channel="ElshintaTV.id"><title lang="id">E-Style</title></programme>
-<programme start="20250125000000 +0000" stop="20250125003000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250125000000 +0000" stop="20250125003000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250125003000 +0000" stop="20250125010000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan - Jalan</title></programme>
-<programme start="20250125003000 +0000" stop="20250125010000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan - Jalan</title></programme>
-<programme start="20250125010000 +0000" stop="20250125020000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
 <programme start="20250125010000 +0000" stop="20250125020000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
 <programme start="20250125020000 +0000" stop="20250125023000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan Jalan Yuu</title></programme>
-<programme start="20250125020000 +0000" stop="20250125023000 +0000" channel="ElshintaTV.id"><title lang="id">Jalan Jalan Yuu</title></programme>
-<programme start="20250125023000 +0000" stop="20250125030000 +0000" channel="ElshintaTV.id"><title lang="id">Infotainment</title></programme>
 <programme start="20250125023000 +0000" stop="20250125030000 +0000" channel="ElshintaTV.id"><title lang="id">Infotainment</title></programme>
 <programme start="20250125030000 +0000" stop="20250125040000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
-<programme start="20250125030000 +0000" stop="20250125040000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
-<programme start="20250125040000 +0000" stop="20250125050000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
 <programme start="20250125040000 +0000" stop="20250125050000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
 <programme start="20250125050000 +0000" stop="20250125053000 +0000" channel="ElshintaTV.id"><title lang="id">Kisi-kisi</title></programme>
-<programme start="20250125050000 +0000" stop="20250125053000 +0000" channel="ElshintaTV.id"><title lang="id">Kisi-kisi</title></programme>
-<programme start="20250125053000 +0000" stop="20250125063000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
 <programme start="20250125053000 +0000" stop="20250125063000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
 <programme start="20250125063000 +0000" stop="20250125070000 +0000" channel="ElshintaTV.id"><title lang="id">Bilik Sehat</title></programme>
-<programme start="20250125063000 +0000" stop="20250125070000 +0000" channel="ElshintaTV.id"><title lang="id">Bilik Sehat</title></programme>
-<programme start="20250125070000 +0000" stop="20250125080000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
 <programme start="20250125070000 +0000" stop="20250125080000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
 <programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="ElshintaTV.id"><title lang="id">Bumbu Dapoer</title></programme>
-<programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="ElshintaTV.id"><title lang="id">Bumbu Dapoer</title></programme>
-<programme start="20250125083000 +0000" stop="20250125090000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250125083000 +0000" stop="20250125090000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
 <programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
-<programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Nyaman - Lejel Shopping</title></programme>
-<programme start="20250125100000 +0000" stop="20250125110000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
 <programme start="20250125100000 +0000" stop="20250125110000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
 <programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="ElshintaTV.id"><title lang="id">VOA</title></programme>
-<programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="ElshintaTV.id"><title lang="id">VOA</title></programme>
-<programme start="20250125113000 +0000" stop="20250125120000 +0000" channel="ElshintaTV.id"><title lang="id">Komunitas</title></programme>
 <programme start="20250125113000 +0000" stop="20250125120000 +0000" channel="ElshintaTV.id"><title lang="id">Komunitas</title></programme>
 <programme start="20250125120000 +0000" stop="20250125130000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250125120000 +0000" stop="20250125130000 +0000" channel="ElshintaTV.id"><title lang="id">Kiat Sehat - Madu Hijau</title></programme>
-<programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="ElshintaTV.id"><title lang="id">Inovator</title></programme>
 <programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="ElshintaTV.id"><title lang="id">Inovator</title></programme>
 <programme start="20250125133000 +0000" stop="20250125140000 +0000" channel="ElshintaTV.id"><title lang="id">Playlist Teras Sore</title></programme>
-<programme start="20250125133000 +0000" stop="20250125140000 +0000" channel="ElshintaTV.id"><title lang="id">Playlist Teras Sore</title></programme>
-<programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="ElshintaTV.id"><title lang="id">Bumi Hijau</title></programme>
 <programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="ElshintaTV.id"><title lang="id">Bumi Hijau</title></programme>
 <programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
-<programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="ElshintaTV.id"><title lang="id">Ayo Shop Forsta</title></programme>
-<programme start="20250125150000 +0000" stop="20250125153000 +0000" channel="ElshintaTV.id"><title lang="id">Sehat Natura - Pak Kobra</title></programme>
 <programme start="20250125150000 +0000" stop="20250125153000 +0000" channel="ElshintaTV.id"><title lang="id">Sehat Natura - Pak Kobra</title></programme>
 <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="ElshintaTV.id"><title lang="id">Merinding</title></programme>
-<programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="ElshintaTV.id"><title lang="id">Merinding</title></programme>
 <programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
-<programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="ElshintaTV.id"><title lang="id">Belanja Berkah</title></programme>
-<programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="ElshintaTV.id"><title lang="id">Bilik Sehat</title></programme>
 <programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="ElshintaTV.id"><title lang="id">Bilik Sehat</title></programme>
 <programme start="20250123170000 +0000" stop="20250123171500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European debrief</title></programme>
 <programme start="20250123171500 +0000" stop="20250123173000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European debrief</title></programme>
@@ -1517,8 +1452,8 @@
 <programme start="20250125163000 +0000" stop="20250125163900 +0000" channel="EuronewsEnglish.fr"><title lang="id">5 minutes</title></programme>
 <programme start="20250125163900 +0000" stop="20250125164800 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
 <programme start="20250125164800 +0000" stop="20250125170000 +0000" channel="EuronewsEnglish.fr"><title lang="id">News</title></programme>
-<programme start="20250123183000 +0000" stop="20250123200000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia: Fearless Kungfu King</title></programme>
-<programme start="20250123200000 +0000" stop="20250123213000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia: Mr. Vampire Saga IV</title></programme>
+<programme start="20250123180000 +0000" stop="20250123193000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia: Fearless Kungfu King</title></programme>
+<programme start="20250123193000 +0000" stop="20250123213000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Wu Xia aka Dragon</title></programme>
 <programme start="20250123213000 +0000" stop="20250123230000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
 <programme start="20250123230000 +0000" stop="20250124010000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
 <programme start="20250124010000 +0000" stop="20250124030000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Pagi Spesial: Topeng Palsu Pernikahan Semu</title></programme>
@@ -1526,28 +1461,28 @@
 <programme start="20250124040000 +0000" stop="20250124043000 +0000" channel="Indosiar.id"><title lang="id">Patroli Siang</title></programme>
 <programme start="20250124043000 +0000" stop="20250124050000 +0000" channel="Indosiar.id"><title lang="id">Fokus Siang</title></programme>
 <programme start="20250124050000 +0000" stop="20250124060000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang Spesial: Kesalahpahaman Yang Menjadi Ujian Pernikahan</title></programme>
-<programme start="20250124060000 +0000" stop="20250124080000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial: Pernikahan Pura-puraku Menjadi Awal Masalahku</title></programme>
-<programme start="20250124080000 +0000" stop="20250124103000 +0000" channel="Indosiar.id"><title lang="id">Liga 1</title></programme>
-<programme start="20250124103000 +0000" stop="20250124120000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 Season 3</title></programme>
-<programme start="20250124120000 +0000" stop="20250124143000 +0000" channel="Indosiar.id"><title lang="id">Sports Program</title></programme>
-<programme start="20250124143000 +0000" stop="20250124173000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia Prime: New Police Story</title></programme>
-<programme start="20250124173000 +0000" stop="20250124200000 +0000" channel="Indosiar.id"><title lang="id">Wu Xia</title></programme>
-<programme start="20250124200000 +0000" stop="20250124213000 +0000" channel="Indosiar.id"><title lang="id">Encounters of the Spooky Kind</title></programme>
+<programme start="20250124060000 +0000" stop="20250124075700 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial: Pernikahan Pura-puraku Menjadi Awal Masalahku</title></programme>
+<programme start="20250124075700 +0000" stop="20250124103500 +0000" channel="Indosiar.id"><title lang="id">Liga 1</title></programme>
+<programme start="20250124103500 +0000" stop="20250124120100 +0000" channel="Indosiar.id"><title lang="id">Magic 5 Season 3</title></programme>
+<programme start="20250124120100 +0000" stop="20250124144500 +0000" channel="Indosiar.id"><title lang="id">Mandiri U-20 Challenge Series</title></programme>
+<programme start="20250124144500 +0000" stop="20250124170000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia Prime : The Foreigner</title></programme>
+<programme start="20250124170000 +0000" stop="20250124193000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Flying Sword of Dragon Gate</title></programme>
+<programme start="20250124193000 +0000" stop="20250124213000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Spooky Encounters</title></programme>
 <programme start="20250124213000 +0000" stop="20250124230000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
-<programme start="20250124230000 +0000" stop="20250125003000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
-<programme start="20250125003000 +0000" stop="20250125013000 +0000" channel="Indosiar.id"><title lang="id">Cinta Lama Yang Kembali Dan Mengubah Segalanya</title></programme>
-<programme start="20250125013000 +0000" stop="20250125030000 +0000" channel="Indosiar.id"><title lang="id">Dendam Penghuni Bunker Pemicu Retaknya Pernikahanku : Kisah Nyata</title></programme>
+<programme start="20250124230000 +0000" stop="20250125003000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 Season 3</title></programme>
+<programme start="20250125003000 +0000" stop="20250125013000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Pagi Spesial : Cinta Lama Yang Kembali Dan Mengubah Segalanya</title></programme>
+<programme start="20250125013000 +0000" stop="20250125030000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Pagi Spesial : Dendam Penghuni Bunker Pemicu Retaknya Pernikahanku</title></programme>
 <programme start="20250125030000 +0000" stop="20250125040000 +0000" channel="Indosiar.id"><title lang="id">Hot Kiss</title></programme>
 <programme start="20250125040000 +0000" stop="20250125043000 +0000" channel="Indosiar.id"><title lang="id">Patroli Siang</title></programme>
 <programme start="20250125043000 +0000" stop="20250125050000 +0000" channel="Indosiar.id"><title lang="id">Fokus Siang</title></programme>
-<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="Indosiar.id"><title lang="id">Akhir Kebohongan Seorang Istri Yang Pandai Memfitnah : Kisah Nyata Siang</title></programme>
-<programme start="20250125060000 +0000" stop="20250125080000 +0000" channel="Indosiar.id"><title lang="id">Aku Terjebak Skenario Keluarga Istri Yang Ingin Aku Berpisah : Kisah Nyata Pagi</title></programme>
-<programme start="20250125080000 +0000" stop="20250125100000 +0000" channel="Indosiar.id"><title lang="id">Malut United FC vs Persik Kediri - BRI Liga 1</title></programme>
-<programme start="20250125103000 +0000" stop="20250125113000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
+<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang Spesial : Akhir Kebohongan Seorang Istri Yang Pandai Memfitnah</title></programme>
+<programme start="20250125060000 +0000" stop="20250125080000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial : Aku Terjebak Skenario Keluarga Istri Yang Ingin Aku Berpisah</title></programme>
+<programme start="20250125080000 +0000" stop="20250125103000 +0000" channel="Indosiar.id"><title lang="id">Malut United FC vs Persik Kediri - BRI Liga 1</title></programme>
+<programme start="20250125103000 +0000" stop="20250125113000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 Season 3</title></programme>
 <programme start="20250125113000 +0000" stop="20250125140000 +0000" channel="Indosiar.id"><title lang="id">Barito Putera vs. Persatuan Sepakbola Surabaya : Liga 1 Indonesian Soccer</title></programme>
-<programme start="20250125140000 +0000" stop="20250125153000 +0000" channel="Indosiar.id"><title lang="id">Counter Attack</title></programme>
+<programme start="20250125140000 +0000" stop="20250125153000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia Prime : Counter Attack</title></programme>
 <programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="Indosiar.id"><title lang="id">Senandung Nikmat</title></programme>
-<programme start="20250125160000 +0000" stop="20250125180000 +0000" channel="Indosiar.id"><title lang="id">Last Hero in China</title></programme>
+<programme start="20250125160000 +0000" stop="20250125180000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia Prime : Last Hero in China</title></programme>
 <programme start="20250123230000 +0000" stop="20250124000000 +0000" channel="JakTV.id"><title lang="id">Galeri Publik</title></programme>
 <programme start="20250124000000 +0000" stop="20250124003000 +0000" channel="JakTV.id"><title lang="id">Inovator</title></programme>
 <programme start="20250124003000 +0000" stop="20250124010000 +0000" channel="JakTV.id"><title lang="id">Cooking Time</title></programme>
@@ -1854,8 +1789,8 @@
 <programme start="20250125153000 +0000" stop="20250125160500 +0000" channel="MetroTV.id"><title lang="id">Go Healthy</title></programme>
 <programme start="20250125160500 +0000" stop="20250125163000 +0000" channel="MetroTV.id"><title lang="id">VOA Global Report</title></programme>
 <programme start="20250125163000 +0000" stop="20250125170500 +0000" channel="MetroTV.id"><title lang="id">Melihat Indonesia</title></programme>
-<programme start="20250123170000 +0000" stop="20250123183000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
-<programme start="20250123183000 +0000" stop="20250123200000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
+<programme start="20250123170000 +0000" stop="20250123180000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
+<programme start="20250123180000 +0000" stop="20250123200000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
 <programme start="20250123200000 +0000" stop="20250123220000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
 <programme start="20250123220000 +0000" stop="20250123231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
 <programme start="20250123231500 +0000" stop="20250124000000 +0000" channel="Moji.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
@@ -1866,10 +1801,10 @@
 <programme start="20250124040000 +0000" stop="20250124063000 +0000" channel="Moji.id"><title lang="id">Tercyduk</title></programme>
 <programme start="20250124063000 +0000" stop="20250124090000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
 <programme start="20250124090000 +0000" stop="20250124113000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
-<programme start="20250124113000 +0000" stop="20250124140000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
-<programme start="20250124140000 +0000" stop="20250124160000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
+<programme start="20250124113000 +0000" stop="20250124151200 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
+<programme start="20250124151200 +0000" stop="20250124160000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
 <programme start="20250124160000 +0000" stop="20250124170000 +0000" channel="Moji.id"><title lang="id">Trust</title></programme>
-<programme start="20250124170000 +0000" stop="20250124183000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
+<programme start="20250124170000 +0000" stop="20250124180000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
 <programme start="20250124183000 +0000" stop="20250124200000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
 <programme start="20250124200000 +0000" stop="20250124220000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
 <programme start="20250124220000 +0000" stop="20250124231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
@@ -1883,14 +1818,15 @@
 <programme start="20250125090000 +0000" stop="20250125113000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
 <programme start="20250125113000 +0000" stop="20250125140000 +0000" channel="Moji.id"><title lang="id">Proliga</title></programme>
 <programme start="20250125140000 +0000" stop="20250125150000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
-<programme start="20250125150000 +0000" stop="20250125163000 +0000" channel="Moji.id"><title lang="id">One on One</title></programme>
+<programme start="20250125150000 +0000" stop="20250125163000 +0000" channel="Moji.id"><title lang="id">ONE 170</title></programme>
 <programme start="20250125163000 +0000" stop="20250125174500 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
 <programme start="20250123170000 +0000" stop="20250123190000 +0000" channel="NBATV.us"><title lang="id">Utah Jazz at Oklahoma City Thunder : NBA Basketball</title></programme>
 <programme start="20250123190000 +0000" stop="20250123210000 +0000" channel="NBATV.us"><title lang="id">2024-2025: Milwaukee Bucks at Oklahoma City Thunder : NBA TV Marquee Matchup</title></programme>
 <programme start="20250123210000 +0000" stop="20250123230000 +0000" channel="NBATV.us"><title lang="id">2024-2025: Philadelphia 76ers at Sacramento Kings : NBA TV Marquee Matchup</title></programme>
 <programme start="20250123230000 +0000" stop="20250124000000 +0000" channel="NBATV.us"><title lang="id">Basketball Stories: A Decade to Remember</title></programme>
 <programme start="20250124000000 +0000" stop="20250124020000 +0000" channel="NBATV.us"><title lang="id">2024-2025: New York Knicks at Washington Wizards : NBA TV Marquee Matchup</title></programme>
-<programme start="20250124020000 +0000" stop="20250124043000 +0000" channel="NBATV.us"><title lang="id">Sacramento Kings vs Denver Nuggets - NBA</title></programme>
+<programme start="20250124020000 +0000" stop="20250124042600 +0000" channel="NBATV.us"><title lang="id">Sacramento Kings vs Denver Nuggets - NBA</title></programme>
+<programme start="20250124042600 +0000" stop="20250124043000 +0000" channel="NBATV.us"><title lang="id">Filler</title></programme>
 <programme start="20250124043000 +0000" stop="20250124053000 +0000" channel="NBATV.us"><title lang="id">Shaq: The Rookie Season : Basketball Stories</title></programme>
 <programme start="20250124053000 +0000" stop="20250124060000 +0000" channel="NBATV.us"><title lang="id">NBA Action</title></programme>
 <programme start="20250124060000 +0000" stop="20250124080000 +0000" channel="NBATV.us"><title lang="id">2024-2025: Denver Nuggets at Utah Jazz : NBA TV Marquee Matchup</title></programme>
@@ -1942,28 +1878,27 @@
 <programme start="20250124120000 +0000" stop="20250124140000 +0000" channel="NET.id"><title lang="id">Cinta Fitri</title></programme>
 <programme start="20250124140000 +0000" stop="20250124150000 +0000" channel="NET.id"><title lang="id">Kupu Malam</title></programme>
 <programme start="20250124150000 +0000" stop="20250124170000 +0000" channel="NET.id"><title lang="id">NET Sinema : Nyi Roro Kidul Project</title></programme>
-<programme start="20250124170000 +0000" stop="20250124180000 +0000" channel="NET.id"><title lang="id">Nyi Roro Kidul Project</title></programme>
-<programme start="20250124180000 +0000" stop="20250124190000 +0000" channel="NET.id"><title lang="id">OK-JEK</title></programme>
-<programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="NET.id"><title lang="id">Kelas Internasional</title></programme>
-<programme start="20250124200000 +0000" stop="20250124210000 +0000" channel="NET.id"><title lang="id">Tonight Show</title></programme>
-<programme start="20250124210000 +0000" stop="20250124220000 +0000" channel="NET.id"><title lang="id">Muslim Travelers</title></programme>
-<programme start="20250124220000 +0000" stop="20250124230000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
-<programme start="20250124230000 +0000" stop="20250125000000 +0000" channel="NET.id"><title lang="id">Inilah Kisahnya</title></programme>
-<programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
-<programme start="20250125010000 +0000" stop="20250125020000 +0000" channel="NET.id"><title lang="id">Aadd (Ada Apa Dengan Dunia)</title></programme>
-<programme start="20250125020000 +0000" stop="20250125030000 +0000" channel="NET.id"><title lang="id">Fakta</title></programme>
-<programme start="20250125030000 +0000" stop="20250125040000 +0000" channel="NET.id"><title lang="id">Desas Desus</title></programme>
-<programme start="20250125040000 +0000" stop="20250125050000 +0000" channel="NET.id"><title lang="id">Makandunia</title></programme>
-<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
-<programme start="20250125060000 +0000" stop="20250125070000 +0000" channel="NET.id"><title lang="id">Nyari Makan</title></programme>
-<programme start="20250125070000 +0000" stop="20250125080000 +0000" channel="NET.id"><title lang="id">Masak Gesss!!!</title></programme>
-<programme start="20250125080000 +0000" stop="20250125090000 +0000" channel="NET.id"><title lang="id">Adit Sopo Jarwo</title></programme>
-<programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="NET.id"><title lang="id">Detective Conan</title></programme>
-<programme start="20250125100000 +0000" stop="20250125120000 +0000" channel="NET.id"><title lang="id">Seru-Seruan</title></programme>
-<programme start="20250125120000 +0000" stop="20250125140000 +0000" channel="NET.id"><title lang="id">Antara Cinta Dan Dusta</title></programme>
-<programme start="20250125140000 +0000" stop="20250125150000 +0000" channel="NET.id"><title lang="id">Cinta Fitri</title></programme>
-<programme start="20250125150000 +0000" stop="20250125160000 +0000" channel="NET.id"><title lang="id">Kupu Malam</title></programme>
-<programme start="20250125160000 +0000" stop="20250125180000 +0000" channel="NET.id"><title lang="id">Gerbang Antar Dimensi</title></programme>
+<programme start="20250124170000 +0000" stop="20250124180000 +0000" channel="NET.id"><title lang="id">OK-JEK</title></programme>
+<programme start="20250124180000 +0000" stop="20250124190000 +0000" channel="NET.id"><title lang="id">Kelas Internasional</title></programme>
+<programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="NET.id"><title lang="id">Tonight Show</title></programme>
+<programme start="20250124200000 +0000" stop="20250124210000 +0000" channel="NET.id"><title lang="id">Muslim Travelers</title></programme>
+<programme start="20250124210000 +0000" stop="20250124220000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
+<programme start="20250124220000 +0000" stop="20250124230000 +0000" channel="NET.id"><title lang="id">Inilah Kisahnya</title></programme>
+<programme start="20250124230000 +0000" stop="20250125000000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
+<programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="NET.id"><title lang="id">Aadd (Ada Apa Dengan Dunia)</title></programme>
+<programme start="20250125010000 +0000" stop="20250125020000 +0000" channel="NET.id"><title lang="id">Fakta +62</title></programme>
+<programme start="20250125020000 +0000" stop="20250125030000 +0000" channel="NET.id"><title lang="id">Desas Desus</title></programme>
+<programme start="20250125030000 +0000" stop="20250125040000 +0000" channel="NET.id"><title lang="id">NET DRAKOR SARANGHAE: OH MY VENUS</title></programme>
+<programme start="20250125040000 +0000" stop="20250125050000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
+<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="NET.id"><title lang="id">Nyari Makan</title></programme>
+<programme start="20250125060000 +0000" stop="20250125070000 +0000" channel="NET.id"><title lang="id">Masak Gesss!!!</title></programme>
+<programme start="20250125070000 +0000" stop="20250125080000 +0000" channel="NET.id"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20250125080000 +0000" stop="20250125090000 +0000" channel="NET.id"><title lang="id">Detective Conan</title></programme>
+<programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="NET.id"><title lang="id">Seru-Seruan</title></programme>
+<programme start="20250125100000 +0000" stop="20250125120000 +0000" channel="NET.id"><title lang="id">Antara Cinta Dan Dusta</title></programme>
+<programme start="20250125120000 +0000" stop="20250125140000 +0000" channel="NET.id"><title lang="id">Cinta Fitri</title></programme>
+<programme start="20250125140000 +0000" stop="20250125150000 +0000" channel="NET.id"><title lang="id">Kupu Malam</title></programme>
+<programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="NET.id"><title lang="id">Gerbang Antar Dimensi</title></programme>
 <programme start="20250123170000 +0000" stop="20250123171500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20250123171500 +0000" stop="20250123173000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline in Depth</title></programme>
 <programme start="20250123173000 +0000" stop="20250123180000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Inspired by Nature&apos;s Strength : Design X Stories</title></programme>
@@ -2212,7 +2147,7 @@
 <programme start="20250124170000 +0000" stop="20250124180000 +0000" channel="RajawaliTV.id"><title lang="id">Canda Empire</title></programme>
 <programme start="20250124180000 +0000" stop="20250124183000 +0000" channel="RajawaliTV.id"><title lang="id">Terang Kasih</title></programme>
 <programme start="20250124183000 +0000" stop="20250124190000 +0000" channel="RajawaliTV.id"><title lang="id">Sangat Tidak Biasa</title></programme>
-<programme start="20250124190000 +0000" stop="20250124203000 +0000" channel="RajawaliTV.id"><title lang="id">Bayang-Bayang Rahasia</title></programme>
+<programme start="20250124190000 +0000" stop="20250124203000 +0000" channel="RajawaliTV.id"><title lang="id">MOVINESIA</title></programme>
 <programme start="20250124203000 +0000" stop="20250124213000 +0000" channel="RajawaliTV.id"><title lang="id">Omar &amp; Hana</title></programme>
 <programme start="20250124213000 +0000" stop="20250124220000 +0000" channel="RajawaliTV.id"><title lang="id">Nussa</title></programme>
 <programme start="20250124220000 +0000" stop="20250124223000 +0000" channel="RajawaliTV.id"><title lang="id">Briko</title></programme>
@@ -2304,31 +2239,30 @@
 <programme start="20250124030000 +0000" stop="20250124050000 +0000" channel="SCTV.id"><title lang="id">FTV Pagi: Tanpa Miss Bule Aku Awut - Awutan</title></programme>
 <programme start="20250124050000 +0000" stop="20250124053000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Siang</title></programme>
 <programme start="20250124053000 +0000" stop="20250124071500 +0000" channel="SCTV.id"><title lang="id">FTV Siang: Circle Abang Cilok Mood Banget</title></programme>
-<programme start="20250124071500 +0000" stop="20250124081500 +0000" channel="SCTV.id"><title lang="id">FTV Sore Spesial</title></programme>
-<programme start="20250124081500 +0000" stop="20250124094500 +0000" channel="SCTV.id"><title lang="id">FTV Sore: Ditaksir Gadis Lele, Aku Bisa Apa</title></programme>
-<programme start="20250124094500 +0000" stop="20250124111500 +0000" channel="SCTV.id"><title lang="id">Asmara Gen Z</title></programme>
-<programme start="20250124111500 +0000" stop="20250124124500 +0000" channel="SCTV.id"><title lang="id">Ketika Cinta Memanggilmu</title></programme>
-<programme start="20250124124500 +0000" stop="20250124143000 +0000" channel="SCTV.id"><title lang="id">Ikrar Cinta Suci</title></programme>
+<programme start="20250124071500 +0000" stop="20250124082000 +0000" channel="SCTV.id"><title lang="id">FTV Sore Spesial</title></programme>
+<programme start="20250124082000 +0000" stop="20250124095000 +0000" channel="SCTV.id"><title lang="id">FTV Sore: Ditaksir Gadis Lele, Aku Bisa Apa</title></programme>
+<programme start="20250124095000 +0000" stop="20250124112000 +0000" channel="SCTV.id"><title lang="id">Asmara Gen Z</title></programme>
+<programme start="20250124112000 +0000" stop="20250124125500 +0000" channel="SCTV.id"><title lang="id">Ketika Cinta Memanggilmu</title></programme>
+<programme start="20250124125500 +0000" stop="20250124143000 +0000" channel="SCTV.id"><title lang="id">Ikrar Cinta Suci</title></programme>
 <programme start="20250124143000 +0000" stop="20250124160000 +0000" channel="SCTV.id"><title lang="id">Luka Cinta</title></programme>
-<programme start="20250124160000 +0000" stop="20250124180000 +0000" channel="SCTV.id"><title lang="id">FTV Primetime</title></programme>
-<programme start="20250124180000 +0000" stop="20250124183000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
-<programme start="20250124183000 +0000" stop="20250124190000 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
-<programme start="20250124190000 +0000" stop="20250124201500 +0000" channel="SCTV.id"><title lang="id">Pacarku Anak Geng Motor</title></programme>
-<programme start="20250124201500 +0000" stop="20250124210000 +0000" channel="SCTV.id"><title lang="id">Mama Saingan Cintaku</title></programme>
+<programme start="20250124160000 +0000" stop="20250124173000 +0000" channel="SCTV.id"><title lang="id">FTV Primetime</title></programme>
+<programme start="20250124173000 +0000" stop="20250124190000 +0000" channel="SCTV.id"><title lang="id">FTV Utama</title></programme>
+<programme start="20250124190000 +0000" stop="20250124193000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
+<programme start="20250124193000 +0000" stop="20250124200000 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
+<programme start="20250124200000 +0000" stop="20250124210000 +0000" channel="SCTV.id"><title lang="id">Pacarku Anak Geng Motor</title></programme>
 <programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="SCTV.id"><title lang="id">Barakallah</title></programme>
 <programme start="20250124213000 +0000" stop="20250124230000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Pagi</title></programme>
 <programme start="20250124230000 +0000" stop="20250124233000 +0000" channel="SCTV.id"><title lang="id">Buser Investigasi</title></programme>
 <programme start="20250124233000 +0000" stop="20250125000000 +0000" channel="SCTV.id"><title lang="id">Halo Selebriti</title></programme>
-<programme start="20250125000000 +0000" stop="20250125013000 +0000" channel="SCTV.id"><title lang="id">Gaspoll</title></programme>
-<programme start="20250125013000 +0000" stop="20250125030000 +0000" channel="SCTV.id"><title lang="id">Gaspoll</title></programme>
+<programme start="20250125000000 +0000" stop="20250125030000 +0000" channel="SCTV.id"><title lang="id">GASPOL (Games Asyik Paling Nampol)</title></programme>
 <programme start="20250125030000 +0000" stop="20250125050000 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Pagi</title></programme>
 <programme start="20250125050000 +0000" stop="20250125053000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Siang</title></programme>
 <programme start="20250125053000 +0000" stop="20250125071500 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Siang</title></programme>
-<programme start="20250125071500 +0000" stop="20250125081500 +0000" channel="SCTV.id"><title lang="id">Jangan Kaya Orang Susah</title></programme>
-<programme start="20250125081500 +0000" stop="20250125094500 +0000" channel="SCTV.id"><title lang="id">Jauhkan Aku Dari Virus, Dekatkan Aku Dengan Yang Serius</title></programme>
-<programme start="20250125094500 +0000" stop="20250125111500 +0000" channel="SCTV.id"><title lang="id">Asmara Gen Z</title></programme>
-<programme start="20250125111500 +0000" stop="20250125124500 +0000" channel="SCTV.id"><title lang="id">Ketika Cinta Memanggilmu</title></programme>
-<programme start="20250125124500 +0000" stop="20250125143000 +0000" channel="SCTV.id"><title lang="id">Ikrar Cinta Suci</title></programme>
+<programme start="20250125071500 +0000" stop="20250125082000 +0000" channel="SCTV.id"><title lang="id">FTV Sore Spesial : Jangan Kaya Orang Susah</title></programme>
+<programme start="20250125082000 +0000" stop="20250125095000 +0000" channel="SCTV.id"><title lang="id">FTV Sore : Jauhkan Aku Dari Virus, Dekatkan Aku Dengan Yang Serius</title></programme>
+<programme start="20250125095000 +0000" stop="20250125112000 +0000" channel="SCTV.id"><title lang="id">Asmara Gen Z</title></programme>
+<programme start="20250125112000 +0000" stop="20250125125000 +0000" channel="SCTV.id"><title lang="id">Ketika Cinta Memanggilmu</title></programme>
+<programme start="20250125125500 +0000" stop="20250125143000 +0000" channel="SCTV.id"><title lang="id">Ikrar Cinta Suci</title></programme>
 <programme start="20250125143000 +0000" stop="20250125160000 +0000" channel="SCTV.id"><title lang="id">Luka Cinta</title></programme>
 <programme start="20250125160000 +0000" stop="20250125174500 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Primetime</title></programme>
 <programme start="20250123170000 +0000" stop="20250123173000 +0000" channel="SEAToday.id"><title lang="id">Super Octogeneranians</title></programme>
@@ -2439,13 +2373,15 @@
 <programme start="20250124093000 +0000" stop="20250124100000 +0000" channel="SPOTV2.id"><title lang="id">New Zealand SGP : SailGP: Racing on the Edge</title></programme>
 <programme start="20250124100000 +0000" stop="20250124120000 +0000" channel="SPOTV2.id"><title lang="id">GTour Mixed Cup- 3rd Tournament Tire Pro : Golf</title></programme>
 <programme start="20250124120000 +0000" stop="20250124130000 +0000" channel="SPOTV2.id"><title lang="id">Brazil, Day 1 : Street League Skateboarding</title></programme>
-<programme start="20250124130000 +0000" stop="20250124153000 +0000" channel="SPOTV2.id"><title lang="id">LOVB Salt Lake vs. LOVB Houston : League One Volleyball</title></programme>
+<programme start="20250124130000 +0000" stop="20250124145600 +0000" channel="SPOTV2.id"><title lang="id">LOVB Salt Lake vs. LOVB Houston : League One Volleyball</title></programme>
+<programme start="20250124145600 +0000" stop="20250124153000 +0000" channel="SPOTV2.id"><title lang="id">FIA Formula E Championship Preview</title></programme>
 <programme start="20250124153000 +0000" stop="20250124170500 +0000" channel="SPOTV2.id"><title lang="id">New Zealand Sail Grand Prix : SailGP Racing</title></programme>
 <programme start="20250124170500 +0000" stop="20250124180000 +0000" channel="SPOTV2.id"><title lang="id">The 152nd Open Official Film</title></programme>
 <programme start="20250124180000 +0000" stop="20250124183000 +0000" channel="SPOTV2.id"><title lang="id">New Zealand SGP : SailGP: Racing on the Edge</title></programme>
 <programme start="20250124183000 +0000" stop="20250124201000 +0000" channel="SPOTV2.id"><title lang="id">New Zealand Sail Grand Prix : SailGP Racing</title></programme>
 <programme start="20250124201000 +0000" stop="20250124220000 +0000" channel="SPOTV2.id"><title lang="id">KLPGA 2024 Dream Tour with Crowning 8th Tournament : Women&apos;s Golf</title></programme>
-<programme start="20250124220000 +0000" stop="20250125003000 +0000" channel="SPOTV2.id"><title lang="id">LOVB Salt Lake vs. LOVB Houston : League One Volleyball</title></programme>
+<programme start="20250124220000 +0000" stop="20250125000000 +0000" channel="SPOTV2.id"><title lang="id">LOVB Salt Lake vs. LOVB Houston : League One Volleyball</title></programme>
+<programme start="20250125000000 +0000" stop="20250125003000 +0000" channel="SPOTV2.id"><title lang="id">Macarthur vs. Wellington Phoenix : A-League Men Mini Match</title></programme>
 <programme start="20250125003000 +0000" stop="20250125010000 +0000" channel="SPOTV2.id"><title lang="id">Latin America Amateur Championship Highlights</title></programme>
 <programme start="20250125010000 +0000" stop="20250125033000 +0000" channel="SPOTV2.id"><title lang="id">Omaha vs Madison - LOVB Pro</title></programme>
 <programme start="20250125033000 +0000" stop="20250125035500 +0000" channel="SPOTV2.id"><title lang="id">Muay Thai League</title></programme>
@@ -2570,7 +2506,7 @@
 <programme start="20250125103000 +0000" stop="20250125114500 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
 <programme start="20250125114500 +0000" stop="20250125130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
 <programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="TransTV.id"><title lang="id">Sinema Spesial</title></programme>
-<programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
+<programme start="20250125150000 +0000" stop="20250125170000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV - Hellboy (2019)</title></programme>
 <programme start="20250123170000 +0000" stop="20250123182600 +0000" channel="TV5MondeAsia.fr"><title lang="id">Le soleil de trop prs</title></programme>
 <programme start="20250123182600 +0000" stop="20250123185600 +0000" channel="TV5MondeAsia.fr"><title lang="id">L&apos;attente</title></programme>
 <programme start="20250123185600 +0000" stop="20250123190000 +0000" channel="TV5MondeAsia.fr"><title lang="id">Oh ! Biz&apos;art</title></programme>
@@ -2822,40 +2758,40 @@
 <programme start="20250124150000 +0000" stop="20250124160000 +0000" channel="TVRINasional.id"><title lang="id">D&apos;Teras</title></programme>
 <programme start="20250124160000 +0000" stop="20250124163000 +0000" channel="TVRINasional.id"><title lang="id">Flashback</title></programme>
 <programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam</title></programme>
-<programme start="20250124170000 +0000" stop="20250124173000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250124173000 +0000" stop="20250124190000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250124200000 +0000" stop="20250124203000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250124203000 +0000" stop="20250124210000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250124213000 +0000" stop="20250124230000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250124230000 +0000" stop="20250125000000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125010000 +0000" stop="20250125013000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125013000 +0000" stop="20250125020000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125020000 +0000" stop="20250125020300 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125020300 +0000" stop="20250125023000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125023000 +0000" stop="20250125030000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125030000 +0000" stop="20250125030300 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125030300 +0000" stop="20250125033000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125033000 +0000" stop="20250125040000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125040000 +0000" stop="20250125040300 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125040300 +0000" stop="20250125050000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125060000 +0000" stop="20250125070000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125070000 +0000" stop="20250125070300 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125070300 +0000" stop="20250125073000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125073000 +0000" stop="20250125080000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125080000 +0000" stop="20250125080300 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125080300 +0000" stop="20250125090000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125100000 +0000" stop="20250125110000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125110000 +0000" stop="20250125120000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125120000 +0000" stop="20250125123000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125123000 +0000" stop="20250125140000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125150000 +0000" stop="20250125160000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
-<programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="TVRINasional.id"><title lang="id">TVRI Sport Malam</title></programme>
+<programme start="20250124170000 +0000" stop="20250124173000 +0000" channel="TVRINasional.id"><title lang="id">Monitor Olahraga</title></programme>
+<programme start="20250124173000 +0000" stop="20250124190000 +0000" channel="TVRINasional.id"><title lang="id">Wayang Kulit</title></programme>
+<programme start="20250124190000 +0000" stop="20250124200000 +0000" channel="TVRINasional.id"><title lang="id">BOM - Bakat Orang Muda</title></programme>
+<programme start="20250124200000 +0000" stop="20250124203000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20250124203000 +0000" stop="20250124210000 +0000" channel="TVRINasional.id"><title lang="id">Ensiklopedi Islam</title></programme>
+<programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="TVRINasional.id"><title lang="id">Jejak Islam</title></programme>
+<programme start="20250124213000 +0000" stop="20250124230000 +0000" channel="TVRINasional.id"><title lang="id">Serambi Islami</title></programme>
+<programme start="20250124230000 +0000" stop="20250125000000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Pagi Live</title></programme>
+<programme start="20250125000000 +0000" stop="20250125010000 +0000" channel="TVRINasional.id"><title lang="id">Jendela Negeri Live</title></programme>
+<programme start="20250125010000 +0000" stop="20250125013000 +0000" channel="TVRINasional.id"><title lang="id">Sehari Bersama</title></programme>
+<programme start="20250125013000 +0000" stop="20250125020000 +0000" channel="TVRINasional.id"><title lang="id">Anak Indonesia</title></programme>
+<programme start="20250125020000 +0000" stop="20250125020300 +0000" channel="TVRINasional.id"><title lang="id">Info Terkini Live</title></programme>
+<programme start="20250125020300 +0000" stop="20250125023000 +0000" channel="TVRINasional.id"><title lang="id">Ayo Ke Museum</title></programme>
+<programme start="20250125023000 +0000" stop="20250125030000 +0000" channel="TVRINasional.id"><title lang="id">Spirit</title></programme>
+<programme start="20250125030000 +0000" stop="20250125030300 +0000" channel="TVRINasional.id"><title lang="id">Info Terkini</title></programme>
+<programme start="20250125030300 +0000" stop="20250125033000 +0000" channel="TVRINasional.id"><title lang="id">The Greatest of All Time</title></programme>
+<programme start="20250125033000 +0000" stop="20250125040000 +0000" channel="TVRINasional.id"><title lang="id">Berburu Rasa</title></programme>
+<programme start="20250125040000 +0000" stop="20250125040300 +0000" channel="TVRINasional.id"><title lang="id">info Terkini Live</title></programme>
+<programme start="20250125040300 +0000" stop="20250125050000 +0000" channel="TVRINasional.id"><title lang="id">Paten</title></programme>
+<programme start="20250125050000 +0000" stop="20250125060000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Siang</title></programme>
+<programme start="20250125060000 +0000" stop="20250125070000 +0000" channel="TVRINasional.id"><title lang="id">Kajian Islami</title></programme>
+<programme start="20250125070000 +0000" stop="20250125070300 +0000" channel="TVRINasional.id"><title lang="id">Info Terkini</title></programme>
+<programme start="20250125070300 +0000" stop="20250125073000 +0000" channel="TVRINasional.id"><title lang="id">Pesona Indonesia</title></programme>
+<programme start="20250125073000 +0000" stop="20250125080000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20250125080000 +0000" stop="20250125080300 +0000" channel="TVRINasional.id"><title lang="id">Info Terkini</title></programme>
+<programme start="20250125080300 +0000" stop="20250125090000 +0000" channel="TVRINasional.id"><title lang="id">Buah Hatiku Sayang</title></programme>
+<programme start="20250125090000 +0000" stop="20250125100000 +0000" channel="TVRINasional.id"><title lang="id">Rest Area</title></programme>
+<programme start="20250125100000 +0000" stop="20250125110000 +0000" channel="TVRINasional.id"><title lang="id">Kabayan Milenial</title></programme>
+<programme start="20250125110000 +0000" stop="20250125120000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Petang</title></programme>
+<programme start="20250125120000 +0000" stop="20250125123000 +0000" channel="TVRINasional.id"><title lang="id">Sobat Milenial</title></programme>
+<programme start="20250125123000 +0000" stop="20250125140000 +0000" channel="TVRINasional.id"><title lang="id">Gendang - Generasi Dangdut</title></programme>
+<programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="TVRINasional.id"><title lang="id">Dunia Dalam Berita</title></programme>
+<programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="TVRINasional.id"><title lang="id">News Watch</title></programme>
+<programme start="20250125150000 +0000" stop="20250125160000 +0000" channel="TVRINasional.id"><title lang="id">Playback</title></programme>
+<programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="TVRINasional.id"><title lang="id">Kongkow on The Road</title></programme>
+<programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam</title></programme>
 </tv>
