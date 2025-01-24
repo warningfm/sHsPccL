@@ -52,7 +52,6 @@
 <channel id="France24English.fr"><display-name>France 24</display-name><icon src="https://i.imgur.com/B76eSg2.png"/><url>https://firstmedia.com</url></channel>
 <channel id="GarudaTV.id"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://firstmedia.com</url></channel>
 <channel id="GMS.id"><display-name>GMS Channel</display-name><icon src="https://i.imgur.com/hIroLuT.png"/><url>https://firstmedia.com</url></channel>
-<channel id="GTV.id"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HBOAsia.sg"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HBOAsiaHD.sg"><display-name>HBO HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HBOFamilyAsia.sg"><display-name>HBO Family</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png"/><url>https://firstmedia.com</url></channel>
@@ -90,7 +89,6 @@
 <channel id="Reformed21.id"><display-name>Reformed 21</display-name><icon src="https://reformed21.tv/images/logo.png"/><url>https://firstmedia.com</url></channel>
 <channel id="ROCKExtreme.sg"><display-name>Rock Action</display-name><icon src="https://i.imgur.com/3U1JpHm.png"/><url>https://firstmedia.com</url></channel>
 <channel id="RT.ru"><display-name>Russia Today</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="SCTV.id"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
 <channel id="ShenzhenTV.cn"><display-name>Shenzen TV</display-name><icon src="https://i.imgur.com/AnZjWm4.png"/><url>https://firstmedia.com</url></channel>
 <channel id="SindoNewsTV.id"><display-name>MNC News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png"/><url>https://firstmedia.com</url></channel>
 <channel id="SPOTV2.id"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://firstmedia.com</url></channel>
